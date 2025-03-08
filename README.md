@@ -11,7 +11,6 @@ This collection is inspired by the **ICPC Assiut Sheet** and other general probl
 - [Topics Covered](#-topics-covered)   
 - [Getting Started](#-getting-started)  
 - [Contribution](#-contribution-guide)  
-- [Contact](#-contact-me)  
 
 ---
 
@@ -61,8 +60,3 @@ Download MARS from [here](http://courses.missouristate.edu/KenVollmar/mars/) and
  **Want to contribute?**  
 Feel free to **add more problems**, **optimize solutions**, or **fix errors**! 
 Just fork the repositor -> make your changes -> submit a pull request.  
-
----
-
-## Contact  
- [Omnia Ayman](https://github.com/omnia-ayman)  
