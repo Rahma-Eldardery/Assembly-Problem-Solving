@@ -18,26 +18,26 @@ This collection is inspired by the **ICPC Assiut Sheet** and other general probl
 
 The problems are divided into multiple categories based on difficulty level:  
 
-### **1. Basics (Easy)**  
+### 1. Basics (Easy) 
 - Printing numbers & strings (`syscall`)  
 - Simple arithmetic operations (`+`, `-`, `*`, `/`)  
 - Using registers (`$t`, `$s`, `$a`, `$v`)  
 
-### **2. Conditional Statements & Loops**  
+### 2. Conditional Statements & Loops  
 - `if-else`, `switch-case` (`beq`, `bne`, `bgt`, etc.)  
 - `for`, `while`, `do-while` loops   
 
-### **3. Arrays & Strings**  
+### 3. Arrays & Strings  
 - Array traversal & manipulation  
 - Finding max/min elements  
 - String processing (`.asciiz`, `.byte`)  
 
-### **4. Functions & Stack**  
+### 4. Functions & Stack  
 - Writing functions using `jal`, `jr`  
 - Passing parameters (`$a0-$a3`)  
 - Using the stack (`push` & `pop` equivalent in MIPS)  
 
-### **5. Advanced Problems (Hard)**  
+### 5. Advanced Problems (Hard)
 - Recursion  
 - Sorting algorithms (Bubble, Insertion, QuickSort)   
 
@@ -45,10 +45,10 @@ The problems are divided into multiple categories based on difficulty level:
 
 ## Getting Started  
 
-### ** Install MARS Simulator**  
+### Install MARS Simulator
 Download MARS from [here](http://courses.missouristate.edu/KenVollmar/mars/) and run `.asm` files using the simulator.  
 
-### ** Running a Program**  
+### Running a Program
 1. Open MARS and load any `.asm` file.  
 2. Assemble the program (`F3` or click "Assemble").  
 3. Run the program (`F5` or click "Run").  
